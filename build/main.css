@@ -141,7 +141,7 @@ body {
   height: 100%;
   align-items: center;
   justify-content: center;
-  background: oklch(0 0.5 200);
+  background: oklch(0 0.8 200);
   color: oklch(0.92 0.02 106);
   font-family: sans-serif;
 }
